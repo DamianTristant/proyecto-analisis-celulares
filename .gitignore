@@ -1,0 +1,11 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Datos
+data/raw/
+data/processed/
+
+# Entornos virtuales
+venv/
+.env
